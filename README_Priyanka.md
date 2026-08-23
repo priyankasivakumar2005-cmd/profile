@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=S.%20Priyanka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Fresher%20%7C%20AI%2FML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=%20Priyanka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Fresher%20%7C%20AI%2FML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI-driven+systems;Full+Stack+%2B+Machine+Learning+Engineer;Open+Source+Contributor;Turning+ideas+into+production" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-ECE-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.E-ECE-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/based%20in-Chennai%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -33,10 +33,10 @@
 <div align="center">
 
 ```yaml
-name: S. Priyanka
-role: Data Science Fresher · AI/ML Enthusiast · Python Developer
-focus: Machine Learning · Deep Learning · Computer Vision · Generative AI
-mindset: Curious, practical and focused on continuous learning
+name:Priyanka
+role:Data Science Fresher · AI/ML Enthusiast · Python Developer
+focus:Machine Learning · Deep Learning · Computer Vision · Generative AI
+mindset:Curious, practical and focused on continuous learning
 ```
 
 </div>
@@ -53,19 +53,15 @@ I'm a **Data Science and AI/ML fresher** with a background in **Electronics and 
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=python)![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
 
-**Frontend**
+*Machine Learning & AI*
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vue](https://skillicons.dev/icons?i=vue) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Backend & Databases**
+*Tools*
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
-
-**Cloud, DevOps & Tooling**
-
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode
 
 </div>
 
@@ -80,7 +76,6 @@ I'm a **Data Science and AI/ML fresher** with a background in **Electronics and 
 | Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, scikit-learn, feature engineering |
 | Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, TensorFlow, CNNs, RNNs, Transformers |
 | NLP | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning, RAG pipelines |
-| MLOps | ⭐⭐⭐☆☆ | Model serving, MLflow, CI/CD for ML, monitoring |
 | Data Engineering | ⭐⭐⭐⭐☆ | ETL pipelines, Spark, Airflow, data warehousing |
 
 </div>
@@ -139,9 +134,9 @@ An embedded systems project that controls a car using Bluetooth communication an
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Arduino, Bluetooth, Embedded Systems |
-| **Domain** | IoT, Embedded Systems |
-| **Event** | PERI CREATECH'25 |
+| **Domain** | Artificial Intelligence / Machine Learning |
+| **Focus** | Health parameter analysis and risk screening |
+| **Role** | Project Development |
 
 </details>
 
@@ -157,8 +152,6 @@ Architected end-to-end from data ingestion to model serving, with an emphasis on
 
 </details>
 
-<details>
-<summary><b>🔹 Project Two — Distributed Task Orchestration Platform</b></summary>
 <br/>
 
 A horizontally scalable job scheduling system supporting retries, dead-letter queues, and priority-based execution.
@@ -176,8 +169,6 @@ Designed with fault tolerance as a first-class concern — includes automated fa
 
 </details>
 
-<details>
-<summary><b>🔹 Project Three — Full-Stack SaaS Analytics Dashboard</b></summary>
 <br/>
 
 Multi-tenant analytics platform with real-time data visualization and custom report building.
@@ -201,7 +192,7 @@ Built a fully multi-tenant architecture from the ground up, with a focus on data
 
 **Industrial Training / Internship** · ECE / Technology Projects
 
-Hands-on learning and project experience across **Full Stack Development (Frontend)** and **Industrial Based Embedded Systems with AI & IoT**.
+Hands-on learning and project experience across  **Industrial Based Embedded Systems with AI & IoT**.
 
 - Worked with HTML, CSS and JavaScript for frontend development
 - Developed and practiced Python-based AI/ML projects
@@ -209,30 +200,6 @@ Hands-on learning and project experience across **Full Stack Development (Fronte
 - Built academic and practical projects in AI, computer vision and deep learning
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Highlight | Details |
-|---|---|
-| 🤖 AI Project | Built an AI Plant Disease Detection Flask application |
-| 👁️ Computer Vision | Developed Edge & Shape Detection using OpenCV |
-| 🌱 Deep Learning | Worked on plant disease and skin cancer image classification |
-| 🚗 Embedded Systems | Built a Bluetooth Controlled Car using Arduino |
-
-</div>
-
----|---|
-| 🥇 Hackathon Winner | 1st place, University Hackathon 2024 |
-| 📜 Published Research | Co-authored paper at [Conference Name] |
-| ⭐ Open Source | 1000+ combined stars across repositories |
-| 🎓 Dean's List | Academic excellence, 4 consecutive semesters |
-
-</div>
-
----
-
 ## 📜 Certifications & Learning
 
 Currently strengthening skills through hands-on learning and projects in:
